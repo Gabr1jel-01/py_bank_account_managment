@@ -119,7 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+py_bank_acc/
 # Spyder project settings
 .spyderproject
 .spyproject
